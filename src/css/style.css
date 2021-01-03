@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.timer div{
+    margin-right: 20px;
+    font-size: 48px;
+    background: #eee;
+    padding: 10px;
+}
